@@ -1,0 +1,15 @@
+/Users/lorenasilva/Projects/CesarEncryption/CesarEncryption/bin/Debug/net6.0/CesarEncryption
+/Users/lorenasilva/Projects/CesarEncryption/CesarEncryption/bin/Debug/net6.0/CesarEncryption.deps.json
+/Users/lorenasilva/Projects/CesarEncryption/CesarEncryption/bin/Debug/net6.0/CesarEncryption.runtimeconfig.json
+/Users/lorenasilva/Projects/CesarEncryption/CesarEncryption/bin/Debug/net6.0/CesarEncryption.dll
+/Users/lorenasilva/Projects/CesarEncryption/CesarEncryption/bin/Debug/net6.0/CesarEncryption.pdb
+/Users/lorenasilva/Projects/CesarEncryption/CesarEncryption/obj/Debug/net6.0/CesarEncryption.csproj.AssemblyReference.cache
+/Users/lorenasilva/Projects/CesarEncryption/CesarEncryption/obj/Debug/net6.0/CesarEncryption.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lorenasilva/Projects/CesarEncryption/CesarEncryption/obj/Debug/net6.0/CesarEncryption.AssemblyInfoInputs.cache
+/Users/lorenasilva/Projects/CesarEncryption/CesarEncryption/obj/Debug/net6.0/CesarEncryption.AssemblyInfo.cs
+/Users/lorenasilva/Projects/CesarEncryption/CesarEncryption/obj/Debug/net6.0/CesarEncryption.csproj.CoreCompileInputs.cache
+/Users/lorenasilva/Projects/CesarEncryption/CesarEncryption/obj/Debug/net6.0/CesarEncryption.dll
+/Users/lorenasilva/Projects/CesarEncryption/CesarEncryption/obj/Debug/net6.0/refint/CesarEncryption.dll
+/Users/lorenasilva/Projects/CesarEncryption/CesarEncryption/obj/Debug/net6.0/CesarEncryption.pdb
+/Users/lorenasilva/Projects/CesarEncryption/CesarEncryption/obj/Debug/net6.0/CesarEncryption.genruntimeconfig.cache
+/Users/lorenasilva/Projects/CesarEncryption/CesarEncryption/obj/Debug/net6.0/ref/CesarEncryption.dll
